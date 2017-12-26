@@ -1,0 +1,4 @@
+D:\C#\INTITA\TermostateTest\TermostateTest\TermostateTest\bin\Debug\TermostateTest.exe
+D:\C#\INTITA\TermostateTest\TermostateTest\TermostateTest\bin\Debug\TermostateTest.pdb
+D:\C#\INTITA\TermostateTest\TermostateTest\TermostateTest\obj\x86\Debug\TermostateTest.exe
+D:\C#\INTITA\TermostateTest\TermostateTest\TermostateTest\obj\x86\Debug\TermostateTest.pdb
